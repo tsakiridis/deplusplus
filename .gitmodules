@@ -1,0 +1,9 @@
+[submodule "modules"]
+	path = modules
+	url = https://github.com/google/googletest.git
+[submodule "modules/googletest"]
+	path = modules/googletest
+	url = https://github.com/google/googletest.git
+[submodule "modules/ThreadPool"]
+	path = modules/ThreadPool
+	url = https://github.com/progschj/ThreadPool.git
